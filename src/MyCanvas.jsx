@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Draggable from 'react-draggable';
 
-const InputCardApp = () => {
+const MyCanvas = () => {
   const [inputValue, setInputValue] = useState('');
   const [cards, setCards] = useState([]);
   const [isOpen, setIsOpen] = useState(false);
@@ -90,4 +90,4 @@ const InputCardApp = () => {
   );
 };
 
-export default InputCardApp;
+export default MyCanvas;

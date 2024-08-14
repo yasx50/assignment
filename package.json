@@ -16,7 +16,8 @@
     "react-dom": "^18.3.1",
     "react-draggable": "^4.4.6",
     "react-modal": "^3.16.1",
-    "react-resizable": "^3.0.5"
+    "react-resizable": "^3.0.5",
+    "serve": "^14.2.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.8.0",

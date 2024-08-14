@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
-import InputCardApp from './InputCardApp'
+import MyCanvas from './MyCanvas'
 
 function App() {
  
@@ -11,7 +11,7 @@ function App() {
   return (
     <>
     
-    <InputCardApp/>
+    <MyCanvas/>
       
     </>
   )
